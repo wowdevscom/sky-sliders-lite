@@ -115,7 +115,7 @@ No. Styles and scripts are registered globally but only enqueued by Elementor on
 
 = Where can I report a bug or request a feature? =
 
-Please open an issue on our [GitHub repository](https://github.com/wowdevscom/sky-sliders) or use the WordPress.org support forum for this plugin.
+Please open an issue on our [GitHub repository](https://github.com/wowdevscom/sky-sliders-lite) or use the WordPress.org support forum for this plugin.
 
 == Screenshots ==
 
