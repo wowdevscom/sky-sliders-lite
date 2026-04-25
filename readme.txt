@@ -20,6 +20,10 @@ Sky Sliders Lite provides the free widget set generated from the Sky Sliders sou
 2. Activate the plugin through the Plugins screen in WordPress.
 3. Use the Sky Sliders widgets in Elementor.
 
+== Source Code ==
+Development happens on GitHub:
+[https://github.com/wowdevscom/sky-sliders-lite](https://github.com/wowdevscom/sky-sliders-lite)
+
 == Changelog ==
 
 = 1.0.1 =
