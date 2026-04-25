@@ -47,7 +47,7 @@ Unlock six additional premium slider widgets with the **Sky Sliders Pro** upgrad
 * **Lucid** — minimal typographic slider with high-contrast text animations.
 * **Vibrant** — vivid color-pop slider designed for promotions and product launches.
 
-[Upgrade to Sky Sliders Pro →](https://wowdevs.com/sky-sliders)
+[Upgrade to Sky Sliders Pro →](https://skysliders.com/)
 
 = Requirements =
 
