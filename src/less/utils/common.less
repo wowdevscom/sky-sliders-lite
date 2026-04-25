@@ -1,0 +1,224 @@
+// @import url(../utils/variables.less);
+
+body {
+
+  .elementor-element {
+    .ss-text-decoration-none {
+      text-decoration: none;
+    }
+  }
+
+  .ss--title {
+    a {
+      color: inherit;
+      text-decoration: none;
+      outline: none;
+
+      &:hover {
+        color: inherit;
+      }
+    }
+  }
+
+  .ss-icon-wrap {
+    position: relative;
+    display: inline-block;
+
+    i,
+    svg {
+      position: relative;
+      display: block;
+      width: 1em;
+      height: 1em;
+    }
+
+    svg {
+      fill: currentColor;
+    }
+
+    i:before {
+      position: absolute;
+      left: 50%;
+      -webkit-transform: translateX(-50%);
+      -ms-transform: translateX(-50%);
+      transform: translateX(-50%);
+    }
+  }
+}
+
+
+// // Start Swiper Global CSS
+
+// [class*="elementor-widget-sky-"] .swiper-slide {
+//   overflow: hidden;
+//   height: auto !important; //added 20 july 2025
+// }
+
+// [class*="elementor-widget-sky-"] .swiper {
+//   position: relative;
+//   z-index: 1;
+//   overflow: hidden;
+//   margin-left: auto;
+//   margin-right: auto;
+//   padding: 0;
+// }
+
+// [class*="elementor-widget-sky-"] .ss-swiper-global-carousel .swiper {
+//   // padding: 10px;
+//   // margin: 0 -10px;
+//   //
+//   position: relative;
+//   left: 0;
+//   top: 0;
+//   display: block;
+//   margin-left: auto;
+//   margin-right: auto;
+//   overflow: hidden;
+//   z-index: 1;
+// }
+
+// .ss-swiper-global-carousel {
+
+//   .ss-swiper-button-prev,
+//   .ss-swiper-button-next {
+//     position: absolute;
+//     top: 50%;
+//     transform: translate(0, -50%);
+//     z-index: 10;
+//     cursor: pointer;
+//     display: flex;
+//     font-size: var(--ss-navigation-size, .8em);
+//   }
+
+//   .ss-swiper-button-next,
+//   .swiper-rtl .ss-swiper-button-prev {
+//     right: var(--ss-navigation-h-spacing, 30px);
+//     left: auto;
+//   }
+
+//   .ss-swiper-button-prev,
+//   .swiper-rtl .ss-swiper-button-next {
+//     left: var(--ss-navigation-h-spacing, 30px);
+//     right: auto;
+//   }
+
+//   .swiper-vertical {
+//     .ss-swiper-button-next {
+//       right: var(--ss-navigation-h-spacing, 30px);
+//       transform: rotate(90deg);
+//     }
+
+//     .ss-swiper-button-prev {
+//       left: var(--ss-navigation-h-spacing, 30px);
+//       transform: rotate(90deg);
+//     }
+//   }
+
+//   .ss-slider-navigation {
+//     color: #8c8c8c;
+//     background: #f2f2f2;
+//     padding: 12px;
+//     border: 1px solid #f2f2f2;
+//     border-radius: 50%;
+
+//     svg * {
+//       fill: #8c8c8c;
+//     }
+
+//     &:hover {
+//       background: #ffffff;
+//     }
+//   }
+
+//   // pagination
+
+//   .swiper-pagination {
+//     position: absolute;
+//     bottom: var(--ss-pagination-v-spacing, -35px) !important;
+//     display: block;
+//     width: 100%;
+//   }
+
+//   .swiper-pagination-bullets-dynamic {
+//     overflow: hidden;
+//     font-size: 0;
+//   }
+
+//   .swiper-pagination-bullets.swiper-pagination-bullets-dynamic .swiper-pagination-bullet {
+//     transition: .2s transform, .2s left;
+//   }
+
+//   .swiper-pagination-fraction,
+//   .swiper-pagination-custom,
+//   .swiper-pagination-bullets {
+//     left: 50%;
+//     transform: translateX(-50%);
+//     white-space: nowrap;
+//   }
+
+//   .swiper-pagination-bullets .swiper-pagination-bullet {
+//     margin: 0 4px;
+//   }
+
+//   .swiper-pagination-bullets-dynamic .swiper-pagination-bullet {
+//     transform: scale(.33);
+//     position: relative;
+//   }
+
+//   .swiper-pagination-bullets-dynamic .swiper-pagination-bullet-active {
+//     transform: scale(1);
+//   }
+
+//   .swiper-pagination-bullets-dynamic .swiper-pagination-bullet-active-main {
+//     transform: scale(1);
+//   }
+
+//   .swiper-pagination-bullets-dynamic .swiper-pagination-bullet-active-prev {
+//     transform: scale(.66);
+//   }
+
+//   .swiper-pagination-bullets-dynamic .swiper-pagination-bullet-active-next {
+//     transform: scale(.66);
+//   }
+
+//   .swiper-pagination-bullet.swiper-pagination-bullet-active {
+//     opacity: 1;
+//     background: var(--ss-pagination-active-color, #8c8c8c);
+//   }
+
+//   .swiper-pagination-bullet {
+//     display: inline-block;
+//     width: var(--ss-pagination-bullet-width, 8px);
+//     height: var(--ss-pagination-bullet-height, 8px);
+//     border-radius: var(--ss-pagination-bullet-radius, 50%);
+//     opacity: .6;
+//     background: var(--ss-pagination-color, #dddddd);
+//   }
+
+//   .swiper-pagination-progressbar {
+//     background: var(--ss-pagination-color, @color-primary);
+
+//     .swiper-pagination-progressbar-fill {
+//       background: var(--ss-pagination-active-color, @color-secondary);
+//     }
+//   }
+
+//   .swiper-pagination-progressbar {
+//     height: var(--ss-pagination-progress-size, 4px);
+//   }
+
+//   .swiper-vertical>.swiper-pagination-progressbar {
+//     width: var(--ss-pagination-progress-size, 4px);
+//   }
+
+//   //fraction
+//   .swiper-pagination-fraction {
+//     color: var(--ss-pagination-color, rgba(0, 0, 0, 0.8));
+
+//     .swiper-pagination-current {
+//       color: var(--ss-pagination-active-color, #000);
+//     }
+//   }
+// }
+
+// // end Swiper Global CSS
