@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Sky Sliders Lite
+ * Plugin Name: Sky Sliders — Free Elementor Slider Widgets
  * Description: Free slider widgets for Elementor by Sky Sliders.
  * Version: 1.0.1
  * Author: wowdevs
