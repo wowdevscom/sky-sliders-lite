@@ -1,0 +1,2570 @@
+# Copyright (C) 2026 wowdevs
+# This file is distributed under the GPLv3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Sky Sliders (Pro) 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/sky-sliders\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-25T06:45:24+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: sky-sliders\n"
+
+#. Plugin Name of the plugin
+#: sky-sliders.php
+msgid "Sky Sliders (Pro)"
+msgstr ""
+
+#. Description of the plugin
+#: sky-sliders.php
+msgid "Sky Sliders offers a range of customizable sliders for Elementor, enhancing your website's visual appeal and user engagement. With a variety of slider types, including image, video, and content sliders, you can create stunning presentations that captivate your audience."
+msgstr ""
+
+#. Author of the plugin
+#: sky-sliders.php
+msgid "wowdevs"
+msgstr ""
+
+#. Author URI of the plugin
+#: sky-sliders.php
+msgid "https://wowdevs.com"
+msgstr ""
+
+#: base/class-sky-sliders-base.php:93
+msgid "Update Checking.."
+msgstr ""
+
+#: base/module-base.php:37
+#: base/module-base.php:48
+#: plugin.php:53
+#: plugin.php:64
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: class-core.php:130
+#: plugin.php:342
+msgid "Sky Sliders"
+msgstr ""
+
+#: includes/admin.php:73
+#: modules/advanced/widgets/advanced.php:405
+#: modules/creative/widgets/creative.php:246
+#: modules/elegant-carousel/widgets/elegant-carousel.php:227
+#: modules/photography/widgets/photography.php:311
+msgid "Settings"
+msgstr ""
+
+#: includes/admin.php:81
+msgid "Get 30% OFF!"
+msgstr ""
+
+#: includes/admin.php:82
+msgid "Get Discount"
+msgstr ""
+
+#: includes/admin.php:183
+#: modules/advanced/module.info.php:8
+#: modules/advanced/widgets/advanced.php:32
+msgid "Advanced Slider"
+msgstr ""
+
+#: includes/admin.php:194
+msgid "Creative Slider"
+msgstr ""
+
+#: includes/admin.php:205
+#: modules/elegant-carousel/module.info.php:8
+#: modules/elegant-carousel/widgets/elegant-carousel.php:28
+msgid "Elegant Carousel"
+msgstr ""
+
+#: includes/admin.php:216
+msgid "Fluid Slider"
+msgstr ""
+
+#: includes/admin.php:227
+msgid "Lucid Slider"
+msgstr ""
+
+#: includes/admin.php:238
+msgid "Minimal Slider"
+msgstr ""
+
+#: includes/admin.php:249
+msgid "Photography Slider"
+msgstr ""
+
+#: includes/admin.php:260
+msgid "Vibrant Slider"
+msgstr ""
+
+#: includes/admin.php:273
+msgid "AE Templates"
+msgstr ""
+
+#: includes/admin.php:286
+msgid "test Slider"
+msgstr ""
+
+#: includes/admin.php:301
+msgid "Form Builder Emails Receiver"
+msgstr ""
+
+#: includes/admin.php:302
+msgid "Email Address"
+msgstr ""
+
+#: includes/admin.php:303
+msgid "By default, the form builder sends emails to the admin email. If you'd like to send emails to a different address, you can configure it here."
+msgstr ""
+
+#: includes/admin.php:314
+msgid "Google Map"
+msgstr ""
+
+#: includes/admin.php:315
+msgid "API Key"
+msgstr ""
+
+#: includes/admin.php:316
+msgid "Google Maps API is a service that offers detailed maps and other geographic information for use in online and offline map applications, and websites."
+msgstr ""
+
+#: includes/admin.php:327
+msgid "Mailchimp API Key"
+msgstr ""
+
+#: includes/admin.php:328
+msgid "Access Key"
+msgstr ""
+
+#: includes/admin.php:329
+msgid "Mailchimp is a popular marketing and automation platform for small businesses."
+msgstr ""
+
+#: includes/admin.php:335
+#: includes/admin.php:336
+msgid "Audience ID"
+msgstr ""
+
+#: includes/admin.php:337
+msgid "Each Mailchimp audience has a unique audience ID (sometimes called a list ID) ."
+msgstr ""
+
+#: includes/admin.php:349
+msgid "Instagram"
+msgstr ""
+
+#: includes/admin.php:350
+msgid "App Id"
+msgstr ""
+
+#: includes/admin.php:358
+#: includes/admin.php:359
+msgid "App Secret"
+msgstr ""
+
+#: includes/admin.php:367
+#: includes/admin.php:368
+msgid "Access Token"
+msgstr ""
+
+#: includes/admin/class-menu.php:42
+msgid "Dashboard"
+msgstr ""
+
+#: includes/admin/class-menu.php:47
+msgid "Widgets"
+msgstr ""
+
+#: includes/admin/class-menu.php:53
+msgid "License"
+msgstr ""
+
+#: includes/admin/Classes/class-widgets-settings.php:55
+#: includes/admin/Classes/class-widgets-settings.php:91
+msgid "Unauthorized access."
+msgstr ""
+
+#: includes/admin/Classes/class-widgets-settings.php:61
+#: includes/admin/Classes/class-widgets-settings.php:97
+msgid "Oops, Settings is not found."
+msgstr ""
+
+#: includes/admin/Classes/class-widgets-settings.php:79
+#: includes/admin/Classes/class-widgets-settings.php:125
+msgid "Oops, Action is not found."
+msgstr ""
+
+#: includes/admin/Classes/class-widgets-settings.php:151
+msgid "Already Updated."
+msgstr ""
+
+#: includes/admin/Classes/class-widgets-settings.php:152
+msgid "There is no change in your settings. So there is no need to save the settings again."
+msgstr ""
+
+#: includes/admin/Classes/class-widgets-settings.php:160
+msgid "Successfully Updated."
+msgstr ""
+
+#: includes/admin/Classes/class-widgets-settings.php:161
+msgid "Great, your settings saved successfully in your system."
+msgstr ""
+
+#: includes/admin/Classes/class-widgets-settings.php:166
+msgid "Update Failed."
+msgstr ""
+
+#: includes/admin/Classes/class-widgets-settings.php:167
+msgid "There was an error updating your settings. Please try again."
+msgstr ""
+
+#: includes/class-license-manager.php:213
+msgid "Days remaining"
+msgstr ""
+
+#: includes/class-license-manager.php:225
+msgid "Lifetime"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:20
+msgid "Source"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:31
+msgid "Limit"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:40
+#: includes/controls/group-query/group-control.php:162
+msgid "Search & Select"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:65
+msgid "Include"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:75
+msgid "Include By"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:80
+#: includes/controls/group-query/group-control.php:92
+#: includes/controls/group-query/group-control.php:148
+#: includes/controls/group-query/group-control.php:182
+msgid "Authors"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:81
+#: includes/controls/group-query/group-control.php:109
+#: includes/controls/group-query/group-control.php:151
+#: includes/controls/group-query/group-control.php:199
+msgid "Terms"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:110
+msgid "Terms are items within a taxonomy. Currently we have the following taxonomies: Categories, Tags, Formats and custom taxonomies."
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:114
+#: includes/controls/group-query/group-control.php:204
+msgid "Type and select terms"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:133
+msgid "Exclude"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:143
+msgid "Exclude By"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:149
+msgid "Current Post"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:150
+#: includes/controls/group-query/group-control.php:766
+msgid "Manual Selection"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:200
+msgid "Terms are items in a taxonomy. The available taxonomies are: Categories, Tags, Formats and custom taxonomies."
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:233
+msgid "Show Product"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:237
+msgid "All Products"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:238
+msgid "On Sale"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:239
+msgid "Featured"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:250
+msgid "Offset"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:260
+#: includes/controls/group-query/group-control.php:313
+msgid "Date"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:264
+msgid "All"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:265
+msgid "Past Day"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:266
+msgid "Past Week"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:267
+msgid "Past Month"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:268
+msgid "Past Quarter"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:269
+msgid "Past Year"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:270
+msgid "Custom"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:281
+#: modules/advanced/widgets/advanced.php:612
+msgid "Before"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:283
+msgid "Setting a ‘Before’ date will show all the posts published up to the selected date (inclusive)."
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:294
+#: modules/advanced/widgets/advanced.php:616
+msgid "After"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:296
+msgid "Setting an ‘After’ date will show all posts published on or after the chosen date (inclusive)."
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:307
+msgid "Order By"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:311
+#: modules/advanced/widgets/advanced.php:95
+#: modules/advanced/widgets/advanced.php:301
+#: modules/advanced/widgets/advanced.php:1093
+#: modules/creative/widgets/creative.php:69
+#: modules/creative/widgets/creative.php:362
+#: modules/elegant-carousel/widgets/elegant-carousel.php:66
+#: modules/elegant-carousel/widgets/elegant-carousel.php:359
+#: modules/fluid/widgets/fluid.php:638
+#: modules/lucid/widgets/lucid.php:79
+#: modules/lucid/widgets/lucid.php:598
+#: modules/minimal/widgets/minimal.php:79
+#: modules/minimal/widgets/minimal.php:591
+#: modules/photography/widgets/photography.php:67
+#: modules/photography/widgets/photography.php:401
+#: modules/vibrant/widgets/vibrant.php:79
+#: modules/vibrant/widgets/vibrant.php:590
+msgid "Title"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:312
+msgid "ID"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:314
+msgid "Author"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:315
+msgid "Comment Count"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:316
+msgid "Menu Order"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:317
+msgid "Random"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:327
+msgid "Order"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:331
+msgid "ASC"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:332
+msgid "DESC"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:343
+msgid "Hide Free Product"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:353
+msgid "Hide Out of Stock"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:364
+msgid "Ignore Sticky Posts"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:377
+msgid "Only Featured Image Post"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:378
+msgid "Hide posts without a featured image."
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:390
+msgid "Query ID"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:391
+msgid "Give your Query a custom unique id to allow server side filtering"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:767
+msgid "Current Query"
+msgstr ""
+
+#: includes/controls/group-query/group-control.php:768
+msgid "Related"
+msgstr ""
+
+#: includes/controls/select-input/dynamic-input-module.php:459
+msgid "Sorry, Templates Not Found!"
+msgstr ""
+
+#: includes/controls/select-input/dynamic-input-module.php:494
+msgid "Sorry, AE Plugin is Not Installed!"
+msgstr ""
+
+#: includes/custom-meta-box.php:30
+msgid "Video Link"
+msgstr ""
+
+#: includes/custom-meta-box.php:75
+msgid "Sky Sliders Video Link"
+msgstr ""
+
+#. translators: %1$s: Original post title.
+#: includes/features/class-duplicator.php:68
+msgid "%1$s - [Duplicated]"
+msgstr ""
+
+#: includes/features/class-duplicator.php:132
+msgctxt "Admin String"
+msgid "Duplicate Post"
+msgstr ""
+
+#: includes/features/class-duplicator.php:134
+msgctxt "Admin String"
+msgid "Duplicate Page"
+msgstr ""
+
+#: includes/features/class-duplicator.php:136
+msgctxt "Admin String"
+msgid "Duplicate Template"
+msgstr ""
+
+#: includes/functions.php:35
+msgid "Pro"
+msgstr ""
+
+#: includes/functions.php:85
+msgid "Edit Template"
+msgstr ""
+
+#: includes/functions.php:102
+msgid "Template Not Found!"
+msgstr ""
+
+#: includes/functions.php:104
+#: includes/functions.php:129
+#: modules/advanced/widgets/advanced.php:146
+#: modules/advanced/widgets/advanced.php:158
+msgid "Select Template"
+msgstr ""
+
+#: includes/functions.php:135
+msgid "AE Plugin Not Installed"
+msgstr ""
+
+#: includes/functions.php:200
+msgid "ago"
+msgstr ""
+
+#: includes/functions.php:249
+msgid "The post is not published or does not exist."
+msgstr ""
+
+#: includes/functions.php:292
+msgid " is missing! Please install and activate "
+msgstr ""
+
+#: includes/pro-widget-map.php:31
+msgid "See it in Action"
+msgstr ""
+
+#: lite/sky-sliders-lite.php:118
+msgid "Sky Sliders Lite requires Elementor to be installed and active."
+msgstr ""
+
+#: lite/sky-sliders-lite.php:129
+msgid "Sky Sliders Lite requires Elementor 3.0.0 or later."
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:60
+#: modules/advanced/widgets/advanced.php:767
+#: modules/creative/widgets/creative.php:59
+#: modules/elegant-carousel/widgets/elegant-carousel.php:56
+#: modules/lucid/widgets/lucid.php:58
+#: modules/minimal/widgets/minimal.php:58
+#: modules/photography/widgets/photography.php:57
+#: modules/vibrant/widgets/vibrant.php:58
+msgid "Sliders"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:70
+msgid "Choose Source"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:74
+msgid "Custom Content"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:75
+msgid "Elementor Template"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:76
+msgid "AE Template"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:84
+#: modules/advanced/widgets/advanced.php:1197
+#: modules/creative/widgets/creative.php:80
+#: modules/creative/widgets/creative.php:465
+#: modules/fluid/widgets/fluid.php:83
+#: modules/fluid/widgets/fluid.php:531
+#: modules/lucid/widgets/lucid.php:68
+#: modules/lucid/widgets/lucid.php:538
+#: modules/minimal/widgets/minimal.php:68
+#: modules/minimal/widgets/minimal.php:531
+#: modules/vibrant/widgets/vibrant.php:68
+#: modules/vibrant/widgets/vibrant.php:530
+msgid "Sub Title"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:98
+#: modules/creative/widgets/creative.php:72
+#: modules/elegant-carousel/widgets/elegant-carousel.php:68
+msgid "Slide Title"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:107
+#: modules/advanced/widgets/advanced.php:1301
+#: modules/creative/widgets/creative.php:90
+#: modules/creative/widgets/creative.php:584
+#: modules/lucid/widgets/lucid.php:90
+#: modules/lucid/widgets/lucid.php:675
+#: modules/minimal/widgets/minimal.php:90
+#: modules/minimal/widgets/minimal.php:668
+#: modules/photography/widgets/photography.php:183
+#: modules/vibrant/widgets/vibrant.php:90
+#: modules/vibrant/widgets/vibrant.php:667
+msgid "Text"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:109
+#: modules/advanced/widgets/advanced.php:176
+#: modules/advanced/widgets/advanced.php:180
+#: modules/advanced/widgets/advanced.php:184
+#: modules/advanced/widgets/advanced.php:188
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:110
+#: modules/lucid/widgets/lucid.php:92
+#: modules/minimal/widgets/minimal.php:92
+#: modules/vibrant/widgets/vibrant.php:92
+msgid "Type your description here"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:119
+#: modules/creative/widgets/creative.php:100
+#: modules/elegant-carousel/widgets/elegant-carousel.php:86
+#: modules/fluid/widgets/fluid.php:177
+#: modules/lucid/widgets/lucid.php:100
+#: modules/photography/widgets/photography.php:95
+msgid "Image"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:129
+#: modules/creative/widgets/creative.php:112
+#: modules/elegant-carousel/widgets/elegant-carousel.php:98
+#: modules/fluid/widgets/fluid.php:217
+#: modules/photography/widgets/photography.php:119
+#: modules/photography/widgets/photography.php:192
+msgid "Link"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:131
+#: modules/creative/widgets/creative.php:114
+#: modules/elegant-carousel/widgets/elegant-carousel.php:100
+#: modules/lucid/widgets/lucid.php:142
+#: modules/minimal/widgets/minimal.php:133
+#: modules/photography/widgets/photography.php:121
+#: modules/photography/widgets/photography.php:194
+#: modules/vibrant/widgets/vibrant.php:130
+msgid "https://your-link.com"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:175
+#: modules/creative/widgets/creative.php:133
+msgid "Slide Title #1"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:179
+#: modules/creative/widgets/creative.php:137
+msgid "Slide Title #2"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:183
+#: modules/creative/widgets/creative.php:141
+msgid "Slide Title #3"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:187
+msgid "Slide Title #4"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:209
+msgid "Slider Layout"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:217
+#: modules/creative/widgets/creative.php:171
+#: modules/elegant-carousel/widgets/elegant-carousel.php:165
+#: modules/lucid/widgets/lucid.php:199
+#: modules/minimal/widgets/minimal.php:213
+#: modules/vibrant/widgets/vibrant.php:225
+msgid "Slider Height"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:239
+msgid "Content Position"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:243
+msgid "Top Left"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:244
+msgid "Top Center"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:245
+msgid "Top Right"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:246
+msgid "Middle Left"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:247
+msgid "Middle Center"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:248
+msgid "Middle Right"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:249
+msgid "Bottom Left"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:250
+msgid "Bottom Center"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:251
+msgid "Bottom Right"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:280
+msgid "Text Effects"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:284
+#: modules/advanced/widgets/advanced.php:697
+#: traits/global-swiper-controls.php:63
+msgid "None"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:285
+msgid "Right To Left"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:286
+msgid "Left To Right"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:287
+msgid "Top To Bottom"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:288
+msgid "Bottom To Top"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:297
+msgid "Link On"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:302
+msgid "Item"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:312
+msgid "Note: Links will work on Buttons normally but if you want extra more link options like as on Title or Full Item, you can use this option easily."
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:320
+msgid "Show Title"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:330
+#: modules/creative/widgets/creative.php:193
+#: modules/elegant-carousel/widgets/elegant-carousel.php:187
+#: modules/fluid/widgets/fluid.php:420
+#: modules/lucid/widgets/lucid.php:226
+#: modules/minimal/widgets/minimal.php:239
+#: modules/photography/widgets/photography.php:270
+#: modules/vibrant/widgets/vibrant.php:251
+msgid "Title HTML Tag"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:343
+#: modules/fluid/widgets/fluid.php:430
+#: modules/lucid/widgets/lucid.php:236
+#: modules/minimal/widgets/minimal.php:249
+#: modules/vibrant/widgets/vibrant.php:261
+msgid "Show Sub Title"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:352
+#: modules/creative/widgets/creative.php:203
+#: modules/lucid/widgets/lucid.php:245
+#: modules/minimal/widgets/minimal.php:258
+#: modules/vibrant/widgets/vibrant.php:270
+msgid "Sub Title HTML Tag"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:365
+#: modules/creative/widgets/creative.php:213
+#: modules/lucid/widgets/lucid.php:258
+#: modules/minimal/widgets/minimal.php:271
+#: modules/vibrant/widgets/vibrant.php:283
+msgid "Show Text"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:375
+msgid "Show Button / Link"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:384
+#: modules/creative/widgets/creative.php:225
+#: modules/elegant-carousel/widgets/elegant-carousel.php:206
+#: modules/fluid/widgets/fluid.php:467
+#: modules/lucid/widgets/lucid.php:276
+#: modules/minimal/widgets/minimal.php:289
+#: modules/vibrant/widgets/vibrant.php:301
+#: traits/global-swiper-controls.php:28
+msgid "Show Navigation"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:394
+#: modules/creative/widgets/creative.php:235
+#: modules/elegant-carousel/widgets/elegant-carousel.php:216
+#: modules/fluid/widgets/fluid.php:477
+#: modules/lucid/widgets/lucid.php:287
+#: modules/minimal/widgets/minimal.php:299
+#: modules/photography/widgets/photography.php:300
+#: modules/vibrant/widgets/vibrant.php:311
+msgid "Show Pagination"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:413
+#: traits/global-swiper-controls.php:629
+msgid "Direction"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:417
+#: traits/global-swiper-controls.php:227
+#: traits/global-swiper-controls.php:633
+msgid "Horizontal"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:418
+#: traits/global-swiper-controls.php:245
+msgid "Vertical"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:426
+#: traits/global-swiper-controls.php:643
+msgid "Transition Effect"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:430
+#: traits/global-swiper-controls.php:647
+msgid "Slide"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:431
+msgid "Fade"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:432
+msgid "Flip"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:433
+msgid "Cube"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:434
+#: traits/global-swiper-controls.php:648
+msgid "Coverflow"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:442
+msgid "Cross Fade"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:454
+#: traits/global-swiper-controls.php:726
+msgid "Rotate"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:475
+#: traits/global-swiper-controls.php:773
+msgid "Slide Shadows"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:486
+#: modules/creative/widgets/creative.php:254
+#: modules/elegant-carousel/widgets/elegant-carousel.php:235
+#: modules/fluid/widgets/fluid.php:331
+#: modules/lucid/widgets/lucid.php:306
+#: modules/minimal/widgets/minimal.php:318
+#: modules/photography/widgets/photography.php:319
+#: modules/vibrant/widgets/vibrant.php:330
+#: traits/global-swiper-controls.php:784
+#: traits/global-widget-controls.php:835
+msgid "Autoplay"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:495
+#: modules/creative/widgets/creative.php:263
+#: modules/elegant-carousel/widgets/elegant-carousel.php:244
+#: modules/fluid/widgets/fluid.php:340
+#: modules/lucid/widgets/lucid.php:315
+#: modules/minimal/widgets/minimal.php:327
+#: modules/photography/widgets/photography.php:328
+#: modules/vibrant/widgets/vibrant.php:339
+msgid "Autoplay Speed (sec)"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:517
+#: modules/creative/widgets/creative.php:286
+#: modules/elegant-carousel/widgets/elegant-carousel.php:267
+#: modules/fluid/widgets/fluid.php:363
+#: modules/lucid/widgets/lucid.php:338
+#: modules/minimal/widgets/minimal.php:350
+#: modules/photography/widgets/photography.php:351
+#: modules/vibrant/widgets/vibrant.php:362
+#: traits/global-swiper-controls.php:814
+msgid "Loop"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:526
+#: modules/creative/widgets/creative.php:295
+#: modules/elegant-carousel/widgets/elegant-carousel.php:276
+#: modules/fluid/widgets/fluid.php:372
+#: modules/lucid/widgets/lucid.php:347
+#: modules/minimal/widgets/minimal.php:359
+#: modules/photography/widgets/photography.php:360
+#: modules/vibrant/widgets/vibrant.php:371
+msgid "Slide Speed (sec)"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:545
+#: traits/global-swiper-controls.php:842
+msgid "Pause On Hover"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:556
+#: traits/global-swiper-controls.php:870
+msgid "Observer"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:560
+#: traits/global-swiper-controls.php:874
+msgid "Note: Please use it when you using slider on a hidden element."
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:567
+msgid "Hash Navigation"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:578
+#: modules/fluid/widgets/fluid.php:926
+msgid "Button"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:589
+#: modules/elegant-carousel/widgets/elegant-carousel.php:76
+#: modules/fluid/widgets/fluid.php:195
+#: modules/lucid/widgets/lucid.php:118
+#: modules/lucid/widgets/lucid.php:448
+#: modules/minimal/widgets/minimal.php:121
+#: modules/minimal/widgets/minimal.php:461
+#: modules/vibrant/widgets/vibrant.php:118
+#: modules/vibrant/widgets/vibrant.php:460
+msgid "Button Text"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:591
+msgid "Click here"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:599
+#: modules/fluid/widgets/fluid.php:75
+#: modules/fluid/widgets/fluid.php:205
+msgid "Icon"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:607
+msgid "Icon Position"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:632
+#: modules/fluid/widgets/fluid.php:875
+#: modules/fluid/widgets/fluid.php:1081
+#: modules/minimal/widgets/minimal.php:808
+#: modules/vibrant/widgets/vibrant.php:807
+msgid "Icon Spacing"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:657
+#: modules/advanced/widgets/advanced.php:1577
+#: modules/creative/widgets/creative.php:317
+#: modules/creative/widgets/creative.php:646
+#: modules/elegant-carousel/widgets/elegant-carousel.php:320
+#: modules/elegant-carousel/widgets/elegant-carousel.php:629
+#: modules/fluid/widgets/fluid.php:1262
+#: modules/fluid/widgets/fluid.php:1290
+#: modules/lucid/widgets/lucid.php:386
+#: modules/lucid/widgets/lucid.php:911
+#: modules/minimal/widgets/minimal.php:390
+#: modules/minimal/widgets/minimal.php:934
+#: modules/vibrant/widgets/vibrant.php:410
+#: modules/vibrant/widgets/vibrant.php:933
+#: traits/global-swiper-controls.php:187
+msgid "Navigation"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:666
+#: modules/fluid/widgets/fluid.php:1271
+#: traits/global-swiper-controls.php:38
+msgid "Prev Icon"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:674
+#: modules/fluid/widgets/fluid.php:1279
+#: modules/lucid/widgets/lucid.php:405
+#: modules/minimal/widgets/minimal.php:430
+#: modules/vibrant/widgets/vibrant.php:429
+#: traits/global-swiper-controls.php:47
+msgid "Next Icon"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:684
+#: modules/advanced/widgets/advanced.php:1804
+#: modules/creative/widgets/creative.php:688
+#: modules/elegant-carousel/widgets/elegant-carousel.php:671
+#: modules/lucid/widgets/lucid.php:1053
+#: modules/minimal/widgets/minimal.php:1059
+#: modules/photography/widgets/photography.php:535
+#: modules/vibrant/widgets/vibrant.php:1062
+#: traits/global-swiper-controls.php:418
+#: traits/global-widget-controls.php:350
+msgid "Pagination"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:693
+msgid "Pagination Type"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:698
+#: traits/global-swiper-controls.php:64
+msgid "Bullets"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:699
+#: traits/global-swiper-controls.php:65
+msgid "Fraction"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:700
+#: modules/fluid/widgets/fluid.php:1471
+#: traits/global-swiper-controls.php:66
+msgid "Progress Bar"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:708
+#: traits/global-swiper-controls.php:75
+msgid "Dynamic Bullets"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:717
+#: modules/advanced/widgets/advanced.php:741
+#: traits/global-swiper-controls.php:87
+#: traits/global-swiper-controls.php:112
+msgid "Progress Bar Position"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:721
+#: traits/global-swiper-controls.php:91
+msgid "Bottom"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:722
+msgid "Top"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:745
+#: modules/advanced/widgets/advanced.php:907
+#: modules/minimal/widgets/minimal.php:489
+#: modules/vibrant/widgets/vibrant.php:488
+#: traits/global-swiper-controls.php:116
+#: traits/global-swiper-controls.php:141
+#: traits/global-widget-controls.php:365
+msgid "Left"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:746
+#: modules/advanced/widgets/advanced.php:915
+#: modules/minimal/widgets/minimal.php:497
+#: modules/vibrant/widgets/vibrant.php:496
+#: traits/global-swiper-controls.php:117
+#: traits/global-swiper-controls.php:149
+#: traits/global-widget-controls.php:373
+msgid "Right"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:776
+#: modules/advanced/widgets/advanced.php:781
+#: modules/advanced/widgets/advanced.php:933
+#: modules/advanced/widgets/advanced.php:1156
+#: modules/advanced/widgets/advanced.php:1260
+#: modules/advanced/widgets/advanced.php:1356
+#: modules/advanced/widgets/advanced.php:1462
+#: modules/advanced/widgets/advanced.php:1510
+#: modules/advanced/widgets/advanced.php:1684
+#: modules/advanced/widgets/advanced.php:1745
+#: modules/advanced/widgets/advanced.php:1931
+#: modules/advanced/widgets/advanced.php:2035
+#: modules/creative/widgets/creative.php:454
+#: modules/elegant-carousel/widgets/elegant-carousel.php:514
+#: modules/elegant-carousel/widgets/elegant-carousel.php:562
+#: modules/fluid/widgets/fluid.php:824
+#: modules/fluid/widgets/fluid.php:979
+#: modules/fluid/widgets/fluid.php:1039
+#: modules/fluid/widgets/fluid.php:1169
+#: modules/fluid/widgets/fluid.php:1221
+#: modules/fluid/widgets/fluid.php:1350
+#: modules/fluid/widgets/fluid.php:1411
+#: modules/lucid/widgets/lucid.php:483
+#: modules/lucid/widgets/lucid.php:797
+#: modules/lucid/widgets/lucid.php:841
+#: modules/lucid/widgets/lucid.php:973
+#: modules/lucid/widgets/lucid.php:1024
+#: modules/minimal/widgets/minimal.php:515
+#: modules/minimal/widgets/minimal.php:1005
+#: modules/minimal/widgets/minimal.php:1035
+#: modules/vibrant/widgets/vibrant.php:514
+#: modules/vibrant/widgets/vibrant.php:1006
+#: modules/vibrant/widgets/vibrant.php:1036
+#: traits/global-swiper-controls.php:320
+#: traits/global-swiper-controls.php:369
+#: traits/global-widget-controls.php:210
+#: traits/global-widget-controls.php:258
+#: traits/global-widget-controls.php:482
+#: traits/global-widget-controls.php:512
+#: traits/global-widget-controls.php:556
+#: traits/global-widget-controls.php:669
+#: traits/global-widget-controls.php:717
+#: traits/global-widget-controls.php:916
+#: traits/global-widget-controls.php:964
+msgid "Background"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:798
+#: modules/lucid/widgets/lucid.php:507
+msgid "Background Overlay"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:815
+#: modules/advanced/widgets/advanced.php:820
+msgid "Advanced Overlay"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:831
+#: modules/advanced/widgets/advanced.php:967
+#: modules/advanced/widgets/advanced.php:1187
+#: modules/advanced/widgets/advanced.php:1291
+#: modules/advanced/widgets/advanced.php:1421
+#: modules/advanced/widgets/advanced.php:1654
+#: modules/advanced/widgets/advanced.php:1962
+#: modules/advanced/widgets/advanced.php:2066
+#: modules/elegant-carousel/widgets/elegant-carousel.php:473
+#: modules/fluid/widgets/fluid.php:846
+#: modules/fluid/widgets/fluid.php:989
+#: modules/fluid/widgets/fluid.php:1179
+#: modules/fluid/widgets/fluid.php:1320
+#: modules/lucid/widgets/lucid.php:768
+#: modules/lucid/widgets/lucid.php:983
+#: modules/minimal/widgets/minimal.php:1045
+#: modules/vibrant/widgets/vibrant.php:964
+#: traits/global-swiper-controls.php:278
+#: traits/global-widget-controls.php:158
+#: traits/global-widget-controls.php:430
+#: traits/global-widget-controls.php:628
+#: traits/global-widget-controls.php:875
+msgid "Border"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:839
+#: modules/advanced/widgets/advanced.php:975
+#: modules/advanced/widgets/advanced.php:1429
+#: modules/advanced/widgets/advanced.php:1533
+#: modules/advanced/widgets/advanced.php:1711
+#: modules/advanced/widgets/advanced.php:1786
+#: modules/advanced/widgets/advanced.php:1989
+#: modules/advanced/widgets/advanced.php:2093
+#: modules/elegant-carousel/widgets/elegant-carousel.php:481
+#: modules/elegant-carousel/widgets/elegant-carousel.php:585
+#: modules/fluid/widgets/fluid.php:854
+#: modules/fluid/widgets/fluid.php:997
+#: modules/fluid/widgets/fluid.php:1187
+#: modules/fluid/widgets/fluid.php:1244
+#: modules/fluid/widgets/fluid.php:1377
+#: modules/fluid/widgets/fluid.php:1452
+#: modules/lucid/widgets/lucid.php:521
+#: modules/lucid/widgets/lucid.php:991
+#: modules/minimal/widgets/minimal.php:769
+#: modules/vibrant/widgets/vibrant.php:768
+#: modules/vibrant/widgets/vibrant.php:973
+#: traits/global-swiper-controls.php:286
+#: traits/global-widget-controls.php:166
+#: traits/global-widget-controls.php:438
+#: traits/global-widget-controls.php:636
+#: traits/global-widget-controls.php:883
+#: traits/global-widget-controls.php:987
+msgid "Border Radius"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:853
+#: modules/fluid/widgets/fluid.php:509
+msgid "Content Box"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:878
+msgid "Box Width (% is Perfect)"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:903
+#: traits/global-swiper-controls.php:137
+#: traits/global-widget-controls.php:361
+msgid "Alignment"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:911
+#: modules/minimal/widgets/minimal.php:493
+#: modules/vibrant/widgets/vibrant.php:492
+#: traits/global-swiper-controls.php:145
+#: traits/global-widget-controls.php:369
+msgid "Center"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:919
+#: modules/minimal/widgets/minimal.php:501
+#: modules/vibrant/widgets/vibrant.php:500
+msgid "Justified"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:942
+#: modules/advanced/widgets/advanced.php:997
+#: modules/advanced/widgets/advanced.php:1174
+#: modules/advanced/widgets/advanced.php:1278
+#: modules/advanced/widgets/advanced.php:1374
+#: modules/advanced/widgets/advanced.php:1399
+#: modules/advanced/widgets/advanced.php:1641
+#: modules/creative/widgets/creative.php:441
+#: modules/elegant-carousel/widgets/elegant-carousel.php:451
+#: modules/fluid/widgets/fluid.php:517
+#: modules/fluid/widgets/fluid.php:833
+#: modules/fluid/widgets/fluid.php:946
+#: modules/lucid/widgets/lucid.php:746
+#: modules/lucid/widgets/lucid.php:940
+#: modules/minimal/widgets/minimal.php:757
+#: modules/minimal/widgets/minimal.php:963
+#: modules/vibrant/widgets/vibrant.php:756
+#: traits/global-swiper-controls.php:265
+#: traits/global-widget-controls.php:145
+#: traits/global-widget-controls.php:405
+#: traits/global-widget-controls.php:615
+#: traits/global-widget-controls.php:853
+msgid "Padding"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:954
+#: traits/global-widget-controls.php:130
+#: traits/global-widget-controls.php:417
+msgid "Margin"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:989
+#: modules/minimal/widgets/minimal.php:100
+#: modules/vibrant/widgets/vibrant.php:100
+msgid "Slider Image"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:1011
+#: modules/advanced/widgets/advanced.php:1443
+#: modules/advanced/widgets/advanced.php:1664
+#: modules/advanced/widgets/advanced.php:1898
+#: modules/creative/widgets/creative.php:698
+#: modules/elegant-carousel/widgets/elegant-carousel.php:495
+#: modules/elegant-carousel/widgets/elegant-carousel.php:719
+#: modules/fluid/widgets/fluid.php:960
+#: modules/fluid/widgets/fluid.php:1149
+#: modules/fluid/widgets/fluid.php:1330
+#: modules/lucid/widgets/lucid.php:778
+#: modules/lucid/widgets/lucid.php:954
+#: modules/lucid/widgets/lucid.php:1102
+#: modules/minimal/widgets/minimal.php:828
+#: modules/minimal/widgets/minimal.php:986
+#: modules/minimal/widgets/minimal.php:1090
+#: modules/photography/widgets/photography.php:574
+#: modules/vibrant/widgets/vibrant.php:827
+#: modules/vibrant/widgets/vibrant.php:987
+#: modules/vibrant/widgets/vibrant.php:1093
+#: traits/global-swiper-controls.php:300
+#: traits/global-widget-controls.php:191
+#: traits/global-widget-controls.php:463
+#: traits/global-widget-controls.php:650
+#: traits/global-widget-controls.php:897
+msgid "Normal"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:1018
+#: modules/advanced/widgets/advanced.php:1053
+msgid "Image Opacity"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:1046
+#: modules/advanced/widgets/advanced.php:1491
+#: modules/advanced/widgets/advanced.php:1725
+#: modules/elegant-carousel/widgets/elegant-carousel.php:543
+#: modules/fluid/widgets/fluid.php:1020
+#: modules/fluid/widgets/fluid.php:1201
+#: modules/fluid/widgets/fluid.php:1391
+#: modules/lucid/widgets/lucid.php:822
+#: modules/lucid/widgets/lucid.php:1005
+#: modules/minimal/widgets/minimal.php:881
+#: modules/minimal/widgets/minimal.php:1016
+#: modules/vibrant/widgets/vibrant.php:880
+#: modules/vibrant/widgets/vibrant.php:1017
+#: traits/global-swiper-controls.php:349
+#: traits/global-widget-controls.php:239
+#: traits/global-widget-controls.php:493
+#: traits/global-widget-controls.php:698
+#: traits/global-widget-controls.php:945
+msgid "Hover"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:1079
+msgid "Hover Animation"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:1112
+#: modules/advanced/widgets/advanced.php:1216
+#: modules/advanced/widgets/advanced.php:1312
+#: modules/advanced/widgets/advanced.php:1588
+#: modules/advanced/widgets/advanced.php:1815
+#: modules/creative/widgets/creative.php:370
+#: modules/lucid/widgets/lucid.php:549
+#: modules/lucid/widgets/lucid.php:606
+#: modules/minimal/widgets/minimal.php:542
+#: modules/minimal/widgets/minimal.php:599
+#: modules/minimal/widgets/minimal.php:679
+#: modules/vibrant/widgets/vibrant.php:541
+#: modules/vibrant/widgets/vibrant.php:598
+#: modules/vibrant/widgets/vibrant.php:678
+msgid "Bottom Spacing"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:1136
+#: modules/advanced/widgets/advanced.php:1240
+#: modules/advanced/widgets/advanced.php:1336
+#: modules/advanced/widgets/advanced.php:1412
+#: modules/advanced/widgets/advanced.php:1921
+#: modules/advanced/widgets/advanced.php:2025
+#: modules/creative/widgets/creative.php:394
+#: modules/creative/widgets/creative.php:474
+#: modules/creative/widgets/creative.php:616
+#: modules/creative/widgets/creative.php:678
+#: modules/elegant-carousel/widgets/elegant-carousel.php:368
+#: modules/elegant-carousel/widgets/elegant-carousel.php:464
+#: modules/elegant-carousel/widgets/elegant-carousel.php:661
+#: modules/elegant-carousel/widgets/elegant-carousel.php:701
+#: modules/fluid/widgets/fluid.php:572
+#: modules/fluid/widgets/fluid.php:676
+#: modules/fluid/widgets/fluid.php:744
+#: modules/fluid/widgets/fluid.php:804
+#: modules/fluid/widgets/fluid.php:938
+#: modules/lucid/widgets/lucid.php:568
+#: modules/lucid/widgets/lucid.php:625
+#: modules/lucid/widgets/lucid.php:705
+#: modules/lucid/widgets/lucid.php:759
+#: modules/minimal/widgets/minimal.php:561
+#: modules/minimal/widgets/minimal.php:618
+#: modules/minimal/widgets/minimal.php:698
+#: modules/minimal/widgets/minimal.php:782
+#: modules/minimal/widgets/minimal.php:976
+#: modules/photography/widgets/photography.php:410
+#: modules/photography/widgets/photography.php:467
+#: modules/photography/widgets/photography.php:497
+#: modules/photography/widgets/photography.php:565
+#: modules/photography/widgets/photography.php:647
+#: modules/vibrant/widgets/vibrant.php:560
+#: modules/vibrant/widgets/vibrant.php:617
+#: modules/vibrant/widgets/vibrant.php:697
+#: modules/vibrant/widgets/vibrant.php:781
+#: traits/global-swiper-controls.php:569
+#: traits/global-widget-controls.php:82
+#: traits/global-widget-controls.php:113
+#: traits/global-widget-controls.php:179
+#: traits/global-widget-controls.php:328
+#: traits/global-widget-controls.php:451
+#: traits/global-widget-controls.php:866
+msgid "Typography"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:1144
+#: modules/advanced/widgets/advanced.php:1248
+#: modules/advanced/widgets/advanced.php:1344
+#: modules/advanced/widgets/advanced.php:1450
+#: modules/advanced/widgets/advanced.php:1498
+#: modules/creative/widgets/creative.php:410
+#: modules/creative/widgets/creative.php:490
+#: modules/creative/widgets/creative.php:624
+#: modules/elegant-carousel/widgets/elegant-carousel.php:384
+#: modules/elegant-carousel/widgets/elegant-carousel.php:502
+#: modules/elegant-carousel/widgets/elegant-carousel.php:550
+#: modules/lucid/widgets/lucid.php:785
+#: modules/lucid/widgets/lucid.php:829
+#: modules/minimal/widgets/minimal.php:835
+#: modules/minimal/widgets/minimal.php:888
+#: modules/photography/widgets/photography.php:426
+#: modules/photography/widgets/photography.php:475
+#: modules/photography/widgets/photography.php:513
+#: modules/photography/widgets/photography.php:624
+#: modules/vibrant/widgets/vibrant.php:834
+#: modules/vibrant/widgets/vibrant.php:887
+#: traits/global-widget-controls.php:59
+#: traits/global-widget-controls.php:198
+#: traits/global-widget-controls.php:246
+#: traits/global-widget-controls.php:470
+#: traits/global-widget-controls.php:500
+#: traits/global-widget-controls.php:544
+#: traits/global-widget-controls.php:657
+#: traits/global-widget-controls.php:705
+#: traits/global-widget-controls.php:904
+#: traits/global-widget-controls.php:952
+msgid "Text Color"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:1166
+#: modules/advanced/widgets/advanced.php:1270
+#: modules/advanced/widgets/advanced.php:1366
+#: modules/advanced/widgets/advanced.php:1472
+#: modules/advanced/widgets/advanced.php:1546
+#: modules/advanced/widgets/advanced.php:1694
+#: modules/advanced/widgets/advanced.php:1769
+#: modules/creative/widgets/creative.php:433
+#: modules/creative/widgets/creative.php:502
+#: modules/creative/widgets/creative.php:636
+#: modules/elegant-carousel/widgets/elegant-carousel.php:407
+#: modules/elegant-carousel/widgets/elegant-carousel.php:524
+#: modules/elegant-carousel/widgets/elegant-carousel.php:598
+#: modules/fluid/widgets/fluid.php:685
+#: modules/fluid/widgets/fluid.php:753
+#: modules/fluid/widgets/fluid.php:1360
+#: modules/fluid/widgets/fluid.php:1435
+#: modules/lucid/widgets/lucid.php:588
+#: modules/lucid/widgets/lucid.php:656
+#: modules/lucid/widgets/lucid.php:725
+#: modules/minimal/widgets/minimal.php:581
+#: modules/minimal/widgets/minimal.php:649
+#: modules/minimal/widgets/minimal.php:718
+#: modules/photography/widgets/photography.php:449
+#: modules/photography/widgets/photography.php:525
+#: modules/vibrant/widgets/vibrant.php:580
+#: modules/vibrant/widgets/vibrant.php:648
+#: modules/vibrant/widgets/vibrant.php:717
+#: traits/global-swiper-controls.php:330
+#: traits/global-swiper-controls.php:393
+#: traits/global-widget-controls.php:91
+#: traits/global-widget-controls.php:122
+#: traits/global-widget-controls.php:220
+#: traits/global-widget-controls.php:268
+#: traits/global-widget-controls.php:337
+#: traits/global-widget-controls.php:679
+#: traits/global-widget-controls.php:741
+#: traits/global-widget-controls.php:926
+#: traits/global-widget-controls.php:1000
+msgid "Text Shadow"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:1388
+#: modules/elegant-carousel/widgets/elegant-carousel.php:417
+msgid "Button / Link"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:1481
+#: modules/advanced/widgets/advanced.php:1555
+#: modules/advanced/widgets/advanced.php:1703
+#: modules/advanced/widgets/advanced.php:1778
+#: modules/elegant-carousel/widgets/elegant-carousel.php:533
+#: modules/elegant-carousel/widgets/elegant-carousel.php:607
+#: modules/fluid/widgets/fluid.php:1010
+#: modules/fluid/widgets/fluid.php:1060
+#: modules/fluid/widgets/fluid.php:1369
+#: modules/fluid/widgets/fluid.php:1444
+#: modules/lucid/widgets/lucid.php:812
+#: modules/lucid/widgets/lucid.php:851
+#: traits/global-swiper-controls.php:339
+#: traits/global-swiper-controls.php:402
+#: traits/global-widget-controls.php:229
+#: traits/global-widget-controls.php:277
+#: traits/global-widget-controls.php:688
+#: traits/global-widget-controls.php:750
+#: traits/global-widget-controls.php:935
+#: traits/global-widget-controls.php:1009
+msgid "Box Shadow"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:1519
+#: modules/advanced/widgets/advanced.php:1754
+#: modules/elegant-carousel/widgets/elegant-carousel.php:571
+#: modules/fluid/widgets/fluid.php:1048
+#: modules/fluid/widgets/fluid.php:1230
+#: modules/fluid/widgets/fluid.php:1420
+#: modules/lucid/widgets/lucid.php:1033
+#: modules/vibrant/widgets/vibrant.php:1045
+#: traits/global-swiper-controls.php:378
+#: traits/global-widget-controls.php:285
+#: traits/global-widget-controls.php:521
+#: traits/global-widget-controls.php:565
+#: traits/global-widget-controls.php:726
+#: traits/global-widget-controls.php:973
+msgid "Border Color"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:1563
+#: traits/global-widget-controls.php:1017
+msgid "Animation"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:1605
+#: modules/fluid/widgets/fluid.php:600
+#: modules/fluid/widgets/fluid.php:1301
+#: modules/lucid/widgets/lucid.php:1064
+#: modules/minimal/widgets/minimal.php:1070
+#: modules/vibrant/widgets/vibrant.php:944
+#: modules/vibrant/widgets/vibrant.php:1073
+#: traits/global-swiper-controls.php:198
+msgid "Size"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:1623
+#: modules/fluid/widgets/fluid.php:618
+#: modules/lucid/widgets/lucid.php:1082
+msgid "Spacing"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:1671
+#: modules/advanced/widgets/advanced.php:1732
+#: modules/creative/widgets/creative.php:655
+#: modules/creative/widgets/creative.php:705
+#: modules/elegant-carousel/widgets/elegant-carousel.php:638
+#: modules/elegant-carousel/widgets/elegant-carousel.php:689
+#: modules/fluid/widgets/fluid.php:560
+#: modules/fluid/widgets/fluid.php:589
+#: modules/fluid/widgets/fluid.php:664
+#: modules/fluid/widgets/fluid.php:732
+#: modules/fluid/widgets/fluid.php:812
+#: modules/fluid/widgets/fluid.php:894
+#: modules/fluid/widgets/fluid.php:967
+#: modules/fluid/widgets/fluid.php:1027
+#: modules/fluid/widgets/fluid.php:1156
+#: modules/fluid/widgets/fluid.php:1208
+#: modules/fluid/widgets/fluid.php:1337
+#: modules/fluid/widgets/fluid.php:1398
+#: modules/lucid/widgets/lucid.php:576
+#: modules/lucid/widgets/lucid.php:633
+#: modules/lucid/widgets/lucid.php:713
+#: modules/lucid/widgets/lucid.php:961
+#: modules/lucid/widgets/lucid.php:1012
+#: modules/lucid/widgets/lucid.php:1109
+#: modules/lucid/widgets/lucid.php:1147
+#: modules/minimal/widgets/minimal.php:569
+#: modules/minimal/widgets/minimal.php:626
+#: modules/minimal/widgets/minimal.php:706
+#: modules/minimal/widgets/minimal.php:993
+#: modules/minimal/widgets/minimal.php:1023
+#: modules/minimal/widgets/minimal.php:1097
+#: modules/minimal/widgets/minimal.php:1117
+#: modules/photography/widgets/photography.php:553
+#: modules/photography/widgets/photography.php:581
+#: modules/vibrant/widgets/vibrant.php:568
+#: modules/vibrant/widgets/vibrant.php:625
+#: modules/vibrant/widgets/vibrant.php:705
+#: modules/vibrant/widgets/vibrant.php:994
+#: modules/vibrant/widgets/vibrant.php:1024
+#: modules/vibrant/widgets/vibrant.php:1100
+#: modules/vibrant/widgets/vibrant.php:1120
+#: traits/global-swiper-controls.php:307
+#: traits/global-swiper-controls.php:356
+#: traits/global-widget-controls.php:101
+#: traits/global-widget-controls.php:305
+msgid "Color"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:1832
+#: traits/global-swiper-controls.php:447
+msgid "Bullet Height"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:1853
+#: traits/global-swiper-controls.php:467
+msgid "Bullet Width"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:1874
+#: traits/global-swiper-controls.php:506
+msgid "Bullet Spacing"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:1905
+#: modules/advanced/widgets/advanced.php:1936
+#: traits/global-swiper-controls.php:546
+msgid "Pagination Color"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:2004
+#: modules/creative/widgets/creative.php:717
+#: modules/lucid/widgets/lucid.php:1140
+#: modules/minimal/widgets/minimal.php:1110
+#: modules/photography/widgets/photography.php:593
+#: modules/vibrant/widgets/vibrant.php:1113
+#: traits/global-widget-controls.php:537
+msgid "Active"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:2011
+#: modules/advanced/widgets/advanced.php:2040
+#: traits/global-swiper-controls.php:557
+msgid "Pagination Active Color"
+msgstr ""
+
+#: modules/advanced/widgets/advanced.php:2424
+msgid "Sorry, You are doing something wrong!"
+msgstr ""
+
+#: modules/creative/module.info.php:8
+#: modules/creative/widgets/creative.php:31
+msgid "Creative"
+msgstr ""
+
+#: modules/creative/widgets/creative.php:134
+#: modules/creative/widgets/creative.php:142
+msgid "Branding Here"
+msgstr ""
+
+#: modules/creative/widgets/creative.php:138
+msgid "Model Here"
+msgstr ""
+
+#: modules/creative/widgets/creative.php:163
+#: modules/elegant-carousel/widgets/elegant-carousel.php:157
+#: modules/lucid/widgets/lucid.php:191
+#: modules/minimal/widgets/minimal.php:205
+#: modules/photography/widgets/photography.php:238
+#: modules/vibrant/widgets/vibrant.php:217
+msgid "Additional"
+msgstr ""
+
+#: modules/creative/widgets/creative.php:215
+msgid "Yes"
+msgstr ""
+
+#: modules/creative/widgets/creative.php:216
+msgid "No"
+msgstr ""
+
+#: modules/creative/widgets/creative.php:265
+msgid "Set the delay between slides during autoplay. Default is 3 seconds."
+msgstr ""
+
+#: modules/creative/widgets/creative.php:297
+#: modules/photography/widgets/photography.php:362
+msgid "Set the speed of slide transition. Default is 2.5 seconds."
+msgstr ""
+
+#: modules/creative/widgets/creative.php:326
+#: modules/elegant-carousel/widgets/elegant-carousel.php:329
+msgid "Prev Text"
+msgstr ""
+
+#: modules/creative/widgets/creative.php:328
+#: modules/elegant-carousel/widgets/elegant-carousel.php:331
+#: modules/minimal/widgets/minimal.php:403
+msgid "Prev"
+msgstr ""
+
+#: modules/creative/widgets/creative.php:338
+#: modules/elegant-carousel/widgets/elegant-carousel.php:338
+#: modules/minimal/widgets/minimal.php:419
+msgid "Next Text"
+msgstr ""
+
+#: modules/creative/widgets/creative.php:340
+#: modules/elegant-carousel/widgets/elegant-carousel.php:340
+#: modules/minimal/widgets/minimal.php:421
+msgid "Next"
+msgstr ""
+
+#: modules/creative/widgets/creative.php:352
+#: modules/elegant-carousel/widgets/elegant-carousel.php:349
+#: modules/photography/widgets/photography.php:391
+msgid "Layout"
+msgstr ""
+
+#: modules/creative/widgets/creative.php:421
+#: modules/elegant-carousel/widgets/elegant-carousel.php:395
+#: modules/photography/widgets/photography.php:437
+#: modules/photography/widgets/photography.php:635
+#: traits/global-widget-controls.php:70
+msgid "Text Color Hover"
+msgstr ""
+
+#: modules/creative/widgets/creative.php:510
+msgid "L I N E"
+msgstr ""
+
+#: modules/creative/widgets/creative.php:519
+msgid "Line Width"
+msgstr ""
+
+#: modules/creative/widgets/creative.php:542
+msgid "Line Height"
+msgstr ""
+
+#: modules/creative/widgets/creative.php:592
+#: modules/elegant-carousel/widgets/elegant-carousel.php:428
+#: modules/lucid/widgets/lucid.php:686
+#: modules/minimal/widgets/minimal.php:739
+#: modules/vibrant/widgets/vibrant.php:738
+msgid "Top Spacing"
+msgstr ""
+
+#: modules/creative/widgets/creative.php:666
+#: modules/elegant-carousel/widgets/elegant-carousel.php:649
+#: modules/lucid/widgets/lucid.php:644
+#: modules/minimal/widgets/minimal.php:637
+#: modules/vibrant/widgets/vibrant.php:636
+msgid "Hover Color"
+msgstr ""
+
+#: modules/creative/widgets/creative.php:724
+#: modules/photography/widgets/photography.php:600
+msgid "Active Color"
+msgstr ""
+
+#: modules/elegant-carousel/widgets/elegant-carousel.php:78
+#: modules/elegant-carousel/widgets/elegant-carousel.php:120
+#: modules/elegant-carousel/widgets/elegant-carousel.php:124
+#: modules/elegant-carousel/widgets/elegant-carousel.php:128
+#: modules/elegant-carousel/widgets/elegant-carousel.php:132
+#: modules/elegant-carousel/widgets/elegant-carousel.php:136
+msgid "Discover Case"
+msgstr ""
+
+#: modules/elegant-carousel/widgets/elegant-carousel.php:119
+#: modules/minimal/widgets/minimal.php:178
+#: modules/vibrant/widgets/vibrant.php:184
+msgid "Discover"
+msgstr ""
+
+#: modules/elegant-carousel/widgets/elegant-carousel.php:123
+msgid "Exclusion"
+msgstr ""
+
+#: modules/elegant-carousel/widgets/elegant-carousel.php:127
+msgid "Editorial"
+msgstr ""
+
+#: modules/elegant-carousel/widgets/elegant-carousel.php:131
+msgid "Available"
+msgstr ""
+
+#: modules/elegant-carousel/widgets/elegant-carousel.php:135
+msgid "Premium"
+msgstr ""
+
+#: modules/elegant-carousel/widgets/elegant-carousel.php:197
+#: modules/fluid/widgets/fluid.php:458
+#: modules/lucid/widgets/lucid.php:267
+#: modules/minimal/widgets/minimal.php:280
+#: modules/vibrant/widgets/vibrant.php:292
+msgid "Show Button"
+msgstr ""
+
+#: modules/elegant-carousel/widgets/elegant-carousel.php:246
+msgid "Set the delay between slides during autoplay. Default is 9.5 seconds."
+msgstr ""
+
+#: modules/elegant-carousel/widgets/elegant-carousel.php:278
+#: modules/fluid/widgets/fluid.php:374
+msgid "Set the speed of slide transition. Default is 1.5 seconds."
+msgstr ""
+
+#: modules/elegant-carousel/widgets/elegant-carousel.php:296
+msgid "Slides Per View"
+msgstr ""
+
+#: modules/elegant-carousel/widgets/elegant-carousel.php:309
+#: traits/global-swiper-controls.php:881
+msgid "Centered Slides"
+msgstr ""
+
+#: modules/elegant-carousel/widgets/elegant-carousel.php:680
+#: modules/photography/widgets/photography.php:544
+msgid "T E X T"
+msgstr ""
+
+#: modules/elegant-carousel/widgets/elegant-carousel.php:709
+msgid "P R O G R E S S"
+msgstr ""
+
+#: modules/elegant-carousel/widgets/elegant-carousel.php:744
+msgid "Fill"
+msgstr ""
+
+#: modules/fluid/module.info.php:8
+#: modules/fluid/widgets/fluid.php:29
+msgid "Fluid"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:57
+msgid "Slider Items"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:67
+msgid "S U B - T I T L E"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:94
+msgid "T I T L E"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:103
+msgid "Title (First)"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:114
+msgid "Title (Second)"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:125
+#: modules/fluid/widgets/fluid.php:703
+msgid "Description"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:136
+msgid "B A D G E"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:145
+msgid "Badge Icon"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:157
+msgid "Badge Text"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:159
+msgid "Decided Quality"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:168
+msgid "I M A G E"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:186
+#: modules/lucid/widgets/lucid.php:109
+#: modules/minimal/widgets/minimal.php:112
+#: modules/vibrant/widgets/vibrant.php:109
+msgid "B U T T O N"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:229
+msgid "Slides"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:238
+msgid "Innovation Meets Excellence"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:239
+msgid "Transform Your"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:240
+msgid "Digital Vision"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:241
+msgid "Crafting exceptional digital experiences that drive growth and inspire engagement across the globe."
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:242
+msgid "Explore Solutions"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:247
+msgid "Premium Quality"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:254
+msgid "Creative Solutions That Work"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:255
+msgid "Design With"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:256
+msgid "Purpose & Passion"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:257
+msgid "We blend creativity with strategy to deliver stunning results that elevate your brand."
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:258
+msgid "View Our Work"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:263
+msgid "Award Winning"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:270
+msgid "Grow Beyond Limits"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:271
+msgid "Scale Your"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:272
+msgid "Business Success"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:273
+msgid "Data-driven strategies and cutting-edge technology combine to create powerful solutions for growth."
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:274
+msgid "Start Growing"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:279
+msgid "Certified Excellence"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:301
+#: modules/lucid/widgets/lucid.php:298
+#: modules/minimal/widgets/minimal.php:310
+#: modules/vibrant/widgets/vibrant.php:322
+msgid "Slider Settings"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:309
+#: modules/fluid/widgets/fluid.php:1482
+msgid "Height"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:342
+#: modules/lucid/widgets/lucid.php:317
+#: modules/minimal/widgets/minimal.php:329
+#: modules/photography/widgets/photography.php:330
+#: modules/vibrant/widgets/vibrant.php:341
+msgid "Set the delay between slides during autoplay. Default is 5 seconds."
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:392
+#: modules/lucid/widgets/lucid.php:367
+#: modules/minimal/widgets/minimal.php:379
+#: modules/vibrant/widgets/vibrant.php:399
+msgid "Parallax Effect"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:401
+#: modules/lucid/widgets/lucid.php:376
+#: traits/global-swiper-controls.php:890
+msgid "Grab Cursor"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:412
+msgid "Additional Options"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:440
+msgid "Show Description"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:449
+msgid "Show Badge"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:486
+msgid "Show Progress Bar"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:498
+#: modules/lucid/widgets/lucid.php:464
+#: modules/minimal/widgets/minimal.php:477
+#: modules/vibrant/widgets/vibrant.php:476
+msgid "Slider"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:542
+#: modules/fluid/widgets/fluid.php:646
+#: modules/fluid/widgets/fluid.php:714
+msgid "Space Bottom"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:580
+#: modules/fluid/widgets/fluid.php:866
+#: modules/fluid/widgets/fluid.php:1072
+#: modules/lucid/widgets/lucid.php:863
+msgid "I C O N"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:764
+msgid "Badge"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:776
+msgid "Badge Size"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:906
+#: modules/lucid/widgets/lucid.php:922
+#: modules/minimal/widgets/minimal.php:790
+#: modules/vibrant/widgets/vibrant.php:789
+#: traits/global-widget-controls.php:597
+msgid "Icon Size"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:1100
+msgid "Font Size"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:1124
+msgid "Size (Width & Height)"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:1500
+#: modules/minimal/widgets/minimal.php:857
+#: modules/vibrant/widgets/vibrant.php:856
+msgid "Background Color"
+msgstr ""
+
+#: modules/fluid/widgets/fluid.php:1511
+msgid "Fill Color"
+msgstr ""
+
+#: modules/lucid/module.info.php:8
+#: modules/lucid/widgets/lucid.php:30
+msgid "Lucid"
+msgstr ""
+
+#: modules/lucid/widgets/lucid.php:128
+#: modules/lucid/widgets/lucid.php:436
+msgid "Button Icon"
+msgstr ""
+
+#: modules/lucid/widgets/lucid.php:140
+#: modules/minimal/widgets/minimal.php:131
+#: modules/vibrant/widgets/vibrant.php:128
+msgid "Button Link"
+msgstr ""
+
+#: modules/lucid/widgets/lucid.php:155
+msgid "Innovative Solutions"
+msgstr ""
+
+#: modules/lucid/widgets/lucid.php:156
+msgid "Innovative & Industrial Solutions"
+msgstr ""
+
+#: modules/lucid/widgets/lucid.php:157
+msgid "I specialize in web development, focusing on creating dynamic and visually stunning digital solutions. Let me bring your ideas to life."
+msgstr ""
+
+#: modules/lucid/widgets/lucid.php:158
+msgid "Hire Me"
+msgstr ""
+
+#: modules/lucid/widgets/lucid.php:161
+msgid "Building Dreams"
+msgstr ""
+
+#: modules/lucid/widgets/lucid.php:162
+msgid "Create the Building You Want"
+msgstr ""
+
+#: modules/lucid/widgets/lucid.php:163
+msgid "Transform your vision into reality with our cutting-edge construction services and innovative design solutions."
+msgstr ""
+
+#: modules/lucid/widgets/lucid.php:164
+msgid "Get Started"
+msgstr ""
+
+#: modules/lucid/widgets/lucid.php:167
+msgid "Excellence Delivered"
+msgstr ""
+
+#: modules/lucid/widgets/lucid.php:168
+msgid "A Better Way To Build Dreams"
+msgstr ""
+
+#: modules/lucid/widgets/lucid.php:169
+msgid "Experience excellence in every detail as we craft your perfect space with precision and passion."
+msgstr ""
+
+#: modules/lucid/widgets/lucid.php:170
+msgid "Learn More"
+msgstr ""
+
+#: modules/lucid/widgets/lucid.php:349
+#: modules/minimal/widgets/minimal.php:361
+#: modules/vibrant/widgets/vibrant.php:373
+msgid "Set the speed of slide transition. Default is 1 second."
+msgstr ""
+
+#: modules/lucid/widgets/lucid.php:397
+#: modules/minimal/widgets/minimal.php:411
+#: modules/vibrant/widgets/vibrant.php:421
+msgid "Previous Icon"
+msgstr ""
+
+#: modules/lucid/widgets/lucid.php:415
+#: modules/lucid/widgets/lucid.php:735
+#: modules/minimal/widgets/minimal.php:440
+#: modules/vibrant/widgets/vibrant.php:439
+msgid "CTA Button"
+msgstr ""
+
+#: modules/lucid/widgets/lucid.php:428
+#: modules/minimal/widgets/minimal.php:453
+#: modules/vibrant/widgets/vibrant.php:452
+msgid "Note: The button settings defined here will override individual slide button settings."
+msgstr ""
+
+#: modules/lucid/widgets/lucid.php:475
+msgid "First Layer"
+msgstr ""
+
+#: modules/lucid/widgets/lucid.php:487
+msgid "First Layer Color"
+msgstr ""
+
+#: modules/lucid/widgets/lucid.php:499
+msgid "Second Layer"
+msgstr ""
+
+#: modules/lucid/widgets/lucid.php:511
+msgid "Second Layer Color"
+msgstr ""
+
+#: modules/lucid/widgets/lucid.php:665
+#: modules/minimal/widgets/minimal.php:658
+#: modules/vibrant/widgets/vibrant.php:657
+msgid "Text Stroke"
+msgstr ""
+
+#: modules/lucid/widgets/lucid.php:872
+#: modules/minimal/widgets/minimal.php:846
+#: modules/minimal/widgets/minimal.php:899
+#: modules/vibrant/widgets/vibrant.php:845
+#: modules/vibrant/widgets/vibrant.php:898
+msgid "Icon Color"
+msgstr ""
+
+#: modules/lucid/widgets/lucid.php:883
+msgid "Icon Hover Color"
+msgstr ""
+
+#: modules/lucid/widgets/lucid.php:895
+msgid "Icon Background"
+msgstr ""
+
+#: modules/lucid/widgets/lucid.php:1120
+#: modules/lucid/widgets/lucid.php:1158
+msgid "Opacity"
+msgstr ""
+
+#: modules/lucid/widgets/lucid.php:1305
+msgid "Previous slide"
+msgstr ""
+
+#: modules/lucid/widgets/lucid.php:1321
+msgid "Next slide"
+msgstr ""
+
+#: modules/minimal/module.info.php:8
+#: modules/minimal/widgets/minimal.php:30
+msgid "Minimal"
+msgstr ""
+
+#: modules/minimal/widgets/minimal.php:141
+#: modules/vibrant/widgets/vibrant.php:138
+msgid "Video URL"
+msgstr ""
+
+#: modules/minimal/widgets/minimal.php:157
+#: modules/vibrant/widgets/vibrant.php:154
+msgid "Creative Portfolio"
+msgstr ""
+
+#: modules/minimal/widgets/minimal.php:158
+#: modules/vibrant/widgets/vibrant.php:155
+msgid "Photo Retouch"
+msgstr ""
+
+#: modules/minimal/widgets/minimal.php:159
+#: modules/vibrant/widgets/vibrant.php:156
+msgid "Transform your images with professional retouching techniques and creative enhancement."
+msgstr ""
+
+#: modules/minimal/widgets/minimal.php:160
+#: modules/vibrant/widgets/vibrant.php:157
+msgid "View Work"
+msgstr ""
+
+#: modules/minimal/widgets/minimal.php:163
+#: modules/vibrant/widgets/vibrant.php:163
+msgid "Brand Design"
+msgstr ""
+
+#: modules/minimal/widgets/minimal.php:164
+#: modules/vibrant/widgets/vibrant.php:164
+msgid "Earthmade Aroma"
+msgstr ""
+
+#: modules/minimal/widgets/minimal.php:165
+#: modules/vibrant/widgets/vibrant.php:165
+msgid "Packaging design that captures the essence of natural ingredients and organic beauty."
+msgstr ""
+
+#: modules/minimal/widgets/minimal.php:166
+#: modules/vibrant/widgets/vibrant.php:166
+msgid "Explore"
+msgstr ""
+
+#: modules/minimal/widgets/minimal.php:169
+#: modules/vibrant/widgets/vibrant.php:172
+msgid "Corporate Identity"
+msgstr ""
+
+#: modules/minimal/widgets/minimal.php:170
+#: modules/vibrant/widgets/vibrant.php:173
+msgid "Access Bank Rebranding"
+msgstr ""
+
+#: modules/minimal/widgets/minimal.php:171
+#: modules/vibrant/widgets/vibrant.php:174
+msgid "A complete visual identity transformation for a modern financial institution."
+msgstr ""
+
+#: modules/minimal/widgets/minimal.php:172
+#: modules/vibrant/widgets/vibrant.php:175
+msgid "Case Study"
+msgstr ""
+
+#: modules/minimal/widgets/minimal.php:175
+#: modules/vibrant/widgets/vibrant.php:181
+msgid "Digital Art"
+msgstr ""
+
+#: modules/minimal/widgets/minimal.php:176
+#: modules/vibrant/widgets/vibrant.php:182
+msgid "The Joy of Music"
+msgstr ""
+
+#: modules/minimal/widgets/minimal.php:177
+#: modules/vibrant/widgets/vibrant.php:183
+msgid "Visual storytelling through vibrant colors and emotional compositions."
+msgstr ""
+
+#: modules/minimal/widgets/minimal.php:181
+#: modules/vibrant/widgets/vibrant.php:190
+msgid "Motion Graphics"
+msgstr ""
+
+#: modules/minimal/widgets/minimal.php:182
+#: modules/vibrant/widgets/vibrant.php:191
+msgid "Abstract Animation"
+msgstr ""
+
+#: modules/minimal/widgets/minimal.php:183
+#: modules/vibrant/widgets/vibrant.php:192
+msgid "Bringing ideas to life through dynamic motion design and creative video production."
+msgstr ""
+
+#: modules/minimal/widgets/minimal.php:184
+#: modules/vibrant/widgets/vibrant.php:193
+msgid "Watch Now"
+msgstr ""
+
+#: modules/minimal/widgets/minimal.php:401
+msgid "Previous Text"
+msgstr ""
+
+#: modules/minimal/widgets/minimal.php:485
+#: modules/vibrant/widgets/vibrant.php:484
+msgid "Content Alignment"
+msgstr ""
+
+#: modules/minimal/widgets/minimal.php:519
+#: modules/vibrant/widgets/vibrant.php:518
+msgid "Overlay Color"
+msgstr ""
+
+#: modules/minimal/widgets/minimal.php:728
+#: modules/vibrant/widgets/vibrant.php:727
+msgid "Button / CTA"
+msgstr ""
+
+#: modules/minimal/widgets/minimal.php:868
+#: modules/vibrant/widgets/vibrant.php:867
+msgid "Accent Color"
+msgstr ""
+
+#: modules/minimal/widgets/minimal.php:910
+#: modules/vibrant/widgets/vibrant.php:909
+msgid "Animation Speed (sec)"
+msgstr ""
+
+#: modules/minimal/widgets/minimal.php:945
+msgid "Gap Icon"
+msgstr ""
+
+#: modules/photography/module.info.php:8
+#: modules/photography/widgets/photography.php:29
+msgid "Photography"
+msgstr ""
+
+#: modules/photography/widgets/photography.php:77
+msgid "Title Span"
+msgstr ""
+
+#: modules/photography/widgets/photography.php:86
+#: modules/photography/widgets/photography.php:488
+msgid "Outline Text"
+msgstr ""
+
+#: modules/photography/widgets/photography.php:140
+msgid "Desert"
+msgstr ""
+
+#: modules/photography/widgets/photography.php:141
+msgid "Lonliness"
+msgstr ""
+
+#: modules/photography/widgets/photography.php:142
+#: modules/photography/widgets/photography.php:147
+#: modules/photography/widgets/photography.php:152
+msgid "Folio"
+msgstr ""
+
+#: modules/photography/widgets/photography.php:145
+msgid "Mountain"
+msgstr ""
+
+#: modules/photography/widgets/photography.php:146
+msgid "Adventure"
+msgstr ""
+
+#: modules/photography/widgets/photography.php:150
+msgid "Ocean"
+msgstr ""
+
+#: modules/photography/widgets/photography.php:151
+msgid "Beauty"
+msgstr ""
+
+#: modules/photography/widgets/photography.php:173
+#: modules/photography/widgets/photography.php:615
+msgid "Social Links"
+msgstr ""
+
+#: modules/photography/widgets/photography.php:213
+msgid "FB"
+msgstr ""
+
+#: modules/photography/widgets/photography.php:217
+msgid "IG"
+msgstr ""
+
+#: modules/photography/widgets/photography.php:221
+msgid "YT"
+msgstr ""
+
+#: modules/photography/widgets/photography.php:225
+msgid "DR"
+msgstr ""
+
+#: modules/photography/widgets/photography.php:280
+msgid "Outline Text HTML Tag"
+msgstr ""
+
+#: modules/photography/widgets/photography.php:290
+msgid "Show Sidebar"
+msgstr ""
+
+#: modules/photography/widgets/photography.php:380
+msgid "Parallax"
+msgstr ""
+
+#: modules/photography/widgets/photography.php:457
+msgid "S P A N"
+msgstr ""
+
+#: modules/vibrant/module.info.php:8
+#: modules/vibrant/widgets/vibrant.php:30
+msgid "Vibrant"
+msgstr ""
+
+#: modules/vibrant/widgets/vibrant.php:391
+msgid "Mouse Wheel Control"
+msgstr ""
+
+#: sky-sliders.php:122
+msgid "Sky Sliders is not working because you need to activate the Elementor plugin."
+msgstr ""
+
+#: sky-sliders.php:123
+msgid "Activate Elementor Now"
+msgstr ""
+
+#: sky-sliders.php:131
+msgid "Sky Sliders is not working because you need to install the Elemenor plugin"
+msgstr ""
+
+#: sky-sliders.php:132
+msgid "Install Elementor Now"
+msgstr ""
+
+#: sky-sliders.php:146
+msgid "Sky Sliders is not working because you are using an old version of Elementor."
+msgstr ""
+
+#: sky-sliders.php:147
+msgid "Update Elementor Now"
+msgstr ""
+
+#: traits/global-swiper-controls.php:59
+msgid "Type"
+msgstr ""
+
+#: traits/global-swiper-controls.php:216
+msgid "Position"
+msgstr ""
+
+#: traits/global-swiper-controls.php:429
+msgid "Vertical Position"
+msgstr ""
+
+#: traits/global-swiper-controls.php:487
+msgid "Bullet Radius(%)"
+msgstr ""
+
+#: traits/global-swiper-controls.php:526
+msgid "Progress Size"
+msgstr ""
+
+#: traits/global-swiper-controls.php:606
+msgid "Item Gap"
+msgstr ""
+
+#: traits/global-swiper-controls.php:668
+msgid "Coverflow Effect"
+msgstr ""
+
+#: traits/global-swiper-controls.php:682
+msgid "Depth"
+msgstr ""
+
+#: traits/global-swiper-controls.php:704
+msgid "Modifier"
+msgstr ""
+
+#: traits/global-swiper-controls.php:749
+msgid "Stretch"
+msgstr ""
+
+#: traits/global-swiper-controls.php:793
+msgid "Autoplay Speed (ms)"
+msgstr ""
+
+#: traits/global-swiper-controls.php:823
+msgid "Slide Speed (ms)"
+msgstr ""
+
+#: traits/global-swiper-controls.php:850
+msgid "Slides Per Group"
+msgstr ""
+
+#: traits/global-swiper-controls.php:853
+msgid "1"
+msgstr ""
+
+#: traits/global-swiper-controls.php:854
+msgid "2"
+msgstr ""
+
+#: traits/global-swiper-controls.php:855
+msgid "3"
+msgstr ""
+
+#: traits/global-swiper-controls.php:856
+msgid "4"
+msgstr ""
+
+#: traits/global-swiper-controls.php:857
+msgid "5"
+msgstr ""
+
+#: traits/global-swiper-controls.php:858
+msgid "6"
+msgstr ""
+
+#: traits/global-swiper-controls.php:898
+msgid "Free Mode"
+msgstr ""
+
+#: traits/global-widget-controls.php:22
+msgid "Human Diff Time"
+msgstr ""
+
+#: traits/global-widget-controls.php:33
+msgid "Time Short?"
+msgstr ""
+
+#: traits/global-widget-controls.php:45
+msgid "Show Time"
+msgstr ""
+
+#: traits/global-widget-controls.php:316
+msgid "Color Hover"
+msgstr ""
+
+#: traits/global-widget-controls.php:387
+msgid "Item Spacing"
+msgstr ""
+
+#: traits/global-widget-controls.php:770
+msgid "Video Open"
+msgstr ""
+
+#: traits/global-widget-controls.php:774
+msgid "Default"
+msgstr ""
+
+#: traits/global-widget-controls.php:775
+msgid "Lightbox"
+msgstr ""
+
+#: traits/global-widget-controls.php:776
+msgid "Media File"
+msgstr ""
+
+#: traits/global-widget-controls.php:784
+msgid "File Open in a New Tab?"
+msgstr ""
+
+#: traits/global-widget-controls.php:795
+msgid "Entrance Animation"
+msgstr ""
+
+#: traits/global-widget-controls.php:806
+msgid "Aspect Ratio"
+msgstr ""
+
+#: traits/global-widget-controls.php:827
+msgid "Lazy Load"
+msgstr ""
+
+#: traits/global-widget-controls.php:843
+msgid "Mute"
+msgstr ""
